@@ -58,5 +58,7 @@ Feature 3 - Mass Quote Tweet with mention
 ## Twitter Scrapper - Twitter Mass Mention bot - Twitter Mass Quote Tweet Bot
 **I am selling Twittox ; Contact https://t.me/fomo9090**<br />
 **Price : 3 ETH** 
+
 * If you don't have any ETH, don't dare to DM me
+* I am selling dummy twitter accounts aswel, DM me on telegram https://t.me/fomo9090
 
